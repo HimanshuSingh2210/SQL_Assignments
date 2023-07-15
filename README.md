@@ -1,7 +1,8 @@
 # SQL_Assignments
 
 # Tasks To Be Performed:
-1 Display the “FIRST_NAME” from Employee table using the alias name as Employee_name.
+
+* 1 Display the “FIRST_NAME” from Employee table using the alias name as Employee_name.
 2 Display “LAST_NAME” from Employee table in upper case.
 3 Display unique values of DEPARTMENT from EMPLOYEE table.
 4 Display the first three characters of LAST_NAME from EMPLOYEE table.
